@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TwitterPublisher</string>
+
+    <string name="action_settings"> Settings </string>
+    <string name="hello"> Hola, </ string>
+    <string name="login_instructions"> Inicie sesión en twiter </string>
+    <string name="share_instructions"> Ingrese el mensaje para compartir </string>
+    <string name="btn_login">Inicie sesión en Twitter </string>
+    <string name="btn_share"> Share </string>
+
+    <string name="twitter_callback"> http://javatechig.android.app </string>
+    <string name="twitter_consumer_key">ZfnLY1TyVoJaidmOMAVBfjQol</string>
+    <string name="twitter_consumer_secret">r58UMQORyXEub16jgLaz8WlV08c7QYqBP9e5eVDOvq0Ug1bizU</string>
+    <string name="twitter_oauth_verifier"> oauth_verifier </string>
+</resources>
